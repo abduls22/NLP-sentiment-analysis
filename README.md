@@ -1,4 +1,4 @@
-This application uses natural language processing (NLP), through the use of the NLTK python package, to perform real-time sentiment analysis on user-given text input. Through analyzing the given text, it determines if the sentiment of the user is positive, negative, or neutral.
+This application uses natural language processing (NLP), through the use of the NLTK python package, to perform real-time sentiment analysis on user-given text. Through analyzing the given text, it determines if the sentiment of the user is positive, negative, or neutral.
 
 Before running this application, run the command "npm install".
 
